@@ -11,7 +11,7 @@ const CustomNode = (props) => {
     const { inputs } = props;
     const dispatch = useDispatch();
     const selected_node = useSelector(selectedNode);
-    const bg_color = (selected_node === props.content ? '#df78ef': '#790e8b')
+    const bg_color = (selected_node === props.content ? '#a8def8': '#94b49d')
 
     const onClick= function(){
         dispatch(setDetail(props.content));
