@@ -1,0 +1,17 @@
+{
+    "Visual Design": 
+    [
+        {
+            "id":0,
+            "value": "Does the system provide gender inclusive, rather than gendered or \"neutral\", visual design? Are the aesthetic elements of the system inclusive?"
+        },
+        {
+            "id":1,
+            "value":"Can the visual design be discriminating against any user of any gender identity (e.g., does it include stereotypical masculine elements)?"
+        },
+        {
+            "id":2,
+            "value":"Are the visual design choices for the system based on gender essentialism stereotypes of women’s and men’s preferences?"
+        }
+    ]
+}

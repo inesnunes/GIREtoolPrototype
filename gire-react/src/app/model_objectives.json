@@ -1,0 +1,33 @@
+[
+    {
+        "id":"visual_design",
+        "name":"Visual Design", 
+        "description": "Aesthetics of the software interface, including imagery, colorfulness, themes, icons, complexity, and fonts",
+        "goals": [
+            {
+                "goal": "Analyse the UI to identify and remove potential gender stereotypes in the visual design",
+                "gender_issues": [
+                    {
+                        "name": "Stereotypical masculine visual elements",
+                        "description": "Stereotypical masculine visual elements in the interface can make potential users who do not identify with such design feel like the software is not meant for them and decrease the motivation for interacting with it. This design negatively impacts the majority of potential users, including men."   
+                    },
+                    {
+                        "name": "Shrink it and and Pink it",
+                        "description": "Do not design “for women” based on traditional definitions of femininity. Inscribing stereotypical feminine visual design in the interface of the software perpetuates gender roles and marginalizes female users."   
+                    }
+                ]
+                 
+            },
+            {
+                "goal": "Include the preferences of all users and not prioritize the aesthetic and visual preferences of a group of users at the expense of others",
+                "gender_issues": [
+                    {
+                        "name": "“Neutral” design assumption",
+                        "description": "Assuming the design is \"neutral\" and ignoring gender during interface design might result in masculine aesthetic preferences being adopted. This option can negatively impact the attitudes and perceptions of users who do not identify with such preferences and are more critical and sensitive to the visual design of the system."   
+                    }
+                ]
+                 
+            }
+        ]
+    }
+]
